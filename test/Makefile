@@ -6,3 +6,5 @@ main.o : ../src/main.cc
 
 clean : 
 		rm -f main.o
+		
+		TESTESTES
